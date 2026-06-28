@@ -1,6 +1,6 @@
 function Home(){
 
-    return <h1>Teste mensagem alterada</h1>
+    return <h1>Teste mensagem alterada para atualização na Vercel!</h1>
 }
 
 export default Home;
